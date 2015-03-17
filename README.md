@@ -6,7 +6,7 @@ Exile
 
 First little play around using Elixir following the above tutorial. 
 
-In order to run execture the following 
+In order to run execute the following 
 
 ```elixir 
 
